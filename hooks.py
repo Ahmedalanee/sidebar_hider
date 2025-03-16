@@ -1,1 +1,0 @@
-app_include_css = "/assets/sidebar_hider/css/sidebar_hide.css"
