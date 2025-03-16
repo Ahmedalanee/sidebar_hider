@@ -6,4 +6,4 @@ app_email = "your_email@example.com"
 app_license = "MIT"
 
 # Include JavaScript and CSS globally
-app_include_css = "/assets/sidebar_fixer/css/sidebar_fix.css"
+app_include_css = "/assets/sidebar_hider/css/sidebar_hide.css"
