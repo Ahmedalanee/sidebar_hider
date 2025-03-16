@@ -1,2 +1,2 @@
 include README.md
-recursive-include sidebar_fixer/public *
+recursive-include sidebar_hider/public *
